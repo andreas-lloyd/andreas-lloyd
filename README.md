@@ -1,0 +1,1 @@
+I'm @andreas-lloyd and if you are on my page you will mostly find small things I do in my free time in order to learn about something. I'm a data scientist by trade but everything about building products interests me.
